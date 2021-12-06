@@ -1,0 +1,39 @@
+Installing R 
+
+#############################################################
+R and R studio:
+
+Win:
+https://cran.r-project.org/bin/windows/base/rw-FAQ.html
+
+Mac:
+https://cran.r-project.org/bin/macosx/RMacOSX-FAQ.html
+
+General:
+https://cran.r-project.org/doc/FAQ/R-FAQ.html
+
+#############################################################
+Download:
+https://cran.r-project.org/mirrors.html
+
+Win:
+Click on base and download and install using the first link: Download R #.##.# for Windows
+
+Mac:
+In the Latest release: section, download and install the first file: R-#.##.#.pkg
+
+Linux:
+Choose the distribution that you're using and follow the instructions... good luck! ;o)
+Note: be sure to also install r-base-dev
+
+#############################################################
+Uninstall:
+
+Win:
+Go to the Control Panel and choose "Add/Remove Programs" (Windows XP) or "Programs and Features" (Windows Vista/7/10), locate R and remove it. An alternative is to look for the R folder that is part of the programs that appear in the Start Menu. Inside this folder there should be a link to Uninstall R.
+
+Mac:
+sudo rm -rf /Library/Frameworks/R.framework /Applications/R.app
+
+Linux:
+sudo apt-get --purge remove r-base r-base-dev
