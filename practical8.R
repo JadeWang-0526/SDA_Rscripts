@@ -1,3 +1,4 @@
+# week 8
 library(sda)
 View(rats)
 
