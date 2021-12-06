@@ -1,3 +1,4 @@
+# R and intro to probability
 print("This function simply prints some text to your screen")
 ?print
 sqrt(4)
