@@ -1,3 +1,4 @@
+# week 6
 install.packages("devtools", repos = "https://cloud.r-project.org")
 devtools::install_github("jarrodhadfield/sda")
 library(sda)
