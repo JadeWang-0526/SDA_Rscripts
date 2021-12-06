@@ -1,3 +1,4 @@
+# week 7
 devtools::install_github("jarrodhadfield/sda")
 library(sda)
 library(lme4)
