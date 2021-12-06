@@ -1,3 +1,4 @@
+#week 5
 Fertiliser <- read.table("/Users/jadewang/Desktop/SDA/fertil.txt", header = TRUE)
 View(Fertiliser)
 Fertiliser$FERTIL.LEVEL<-as.factor(Fertiliser$FERTIL)
